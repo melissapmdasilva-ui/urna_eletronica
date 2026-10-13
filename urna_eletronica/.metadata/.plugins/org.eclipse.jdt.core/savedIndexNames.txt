@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\melis\OneDrive\Área de Trabalho\urna_eletronica\.metadata\.plugins\org.eclipse.jdt.core
+1084336406.index
+1865797976.index
+1382444974.index
